@@ -1,1 +1,1 @@
-This is a new line this is changed.
+This is a new line.
